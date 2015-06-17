@@ -1,0 +1,21 @@
+div#main {
+    text-align: center;
+}
+
+h1 {
+    margin: 1em 0 1em 0;
+}
+
+label {
+    display: block;
+    margin: 1em;
+}
+
+form {
+    margin-bottom: 5em;
+}
+
+input#txt-url {
+    width: 28em;
+    padding: 0.4em;
+}

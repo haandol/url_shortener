@@ -1,0 +1,31 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: "Trebuchet MS", "Lucida Grande", "Tahoma", "Helvetica", "Arial", "hiragino kaku gothic pro", "MalgunGothic Bold";
+}
+
+div#main h1 {
+    text-align: center;
+    font-size: 2em;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    color: #99CC00;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+div#tail {
+    position: relative;
+    color: #999999;
+    text-align: center;
+    font-size: 0.7em;
+    margin: 4em 0 1em 0;
+}
